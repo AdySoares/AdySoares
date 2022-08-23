@@ -1,6 +1,6 @@
 ### Olá, eu sou o Adson 👋
 
-- 🌱Estou estudando Engenharia de software;
+- 🌱[Sou estudante de Engenharia de software;
 - 😄 Pronouns: ele/dele;
 - ⚡ Sou bastante proativo e gosto de estudar.
 
